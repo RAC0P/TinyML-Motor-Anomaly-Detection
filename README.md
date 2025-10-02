@@ -107,7 +107,7 @@ Upload `src/esp32_inference/autoencoder_inference.ino` to your ESP32 using the A
 If you use this project, please cite:
 
 **Md. Shoibe Hossain Rifat & Antor Biswas (2025)**
-*Edge-Based Motor Anomaly Detection with TinyML on ESP32*
+[*Edge-Based Motor Anomaly Detection with TinyML on ESP32*](https://doi.org/10.5281/zenodo.17247714)
 
 ---
 
